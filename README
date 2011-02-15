@@ -1,0 +1,9 @@
+*A drupal child theme for the grid 960 system. *
+
+This is a starting point for theme development which allows you to turn on / off the 960 grid system.
+
+Some things that are in the works for this one:
+
+    * Configure the 960 grid to set a 12-grid or 16 grid as visible in development mode
+    * Customizable grid spacing
+    * Downloadable photoshop template for the currently showing grid overlay 

@@ -1,0 +1,29 @@
+;$Id: dream960.info, v 0.0.1 2011/02/01 dreamsolid Exp $
+;########################################################
+;  	DREAMSOLID consulting and development
+;########################################################
+;
+;
+
+name = Dream960 
+description = This theme was developed  by dreamsolid.com.  For support, contact <a href = "mailto:support@dreamsolid.com"> Technical Support</a>
+version = 0.1a
+core = 7.x
+engine = phptemplate
+base theme = ninesixty
+
+regions[page_top]       = Page top
+regions[header]         = Header
+regions[search_box]     = Search Box
+regions[highlighted]    = Highlight
+regions[help]           = Help
+regions[content]        = Content
+regions[front_doors]	= Front Doors
+regions[sidebar_first]  = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer]         = Footer
+regions[page_bottom]    = Page bottom
+
+
+; Development Mode
+settings[dev_mode] = on
